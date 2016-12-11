@@ -1,0 +1,77 @@
+h1 {
+	color: #1c3f50; 
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 60px
+
+}
+
+h2 {
+	color: #1c3f50; 
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 60px
+
+}
+
+h3 {
+	color: #1c3f50; 
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 60px
+
+}
+
+nav{
+	color: #1c3f50; 
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px
+}
+
+div {
+}
+.container {
+	background-color: #6ebdc7;
+
+}
+body {
+	/*comments here*/;
+	/*id:# and class: . */;
+	background-color: #6ebdc7;
+	color: #1c3f50
+	font-size: 60px;
+}
+.blue{
+	background-color: #6ebdc7;
+
+}
+
+p {
+	color: #1c3f50; 
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 70px; 
+}
+img {
+	width: 600px;
+	height: 400px;
+	border: 7px solid black;
+}
+
+.intro{
+	width: 800px;
+	height: 600px;
+}
+
+.bigger {
+	width: 600px;
+	height: 400px;
+}
+.container {
+	width: 5  00px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
